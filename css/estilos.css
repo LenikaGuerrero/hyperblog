@@ -18,7 +18,12 @@ body {
 }
 
 #cabecera #logo {
-    width: 20px;
+    width: 30px;
+    vertical-align: middle;
+}
+
+#cabecera #title {
+    font-size: 1.5em;
     vertical-align: middle;
 }
 
